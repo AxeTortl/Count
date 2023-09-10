@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Count</string>
+    <string name="count_text">0</string>
+    <string name="button_text">Tap</string>
+</resources>
